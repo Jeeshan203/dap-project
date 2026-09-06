@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DAP PROJECT.iml" filepath="$PROJECT_DIR$/.idea/DAP PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dap-project.iml" filepath="$PROJECT_DIR$/.idea/dap-project.iml" />
     </modules>
   </component>
 </project>

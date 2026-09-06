@@ -5,8 +5,8 @@ df = pd.read_csv("student_dropout_dataset_v3.csv")
 # ================================================
 # Program 1: Loading the Dataset
 # ================================================
-print("First Five Records")
-print(df.head())
+print("Total Records:", len(df))
+print(df)
 
 # ================================================
 # Program 2: Computing Statistics
@@ -30,6 +30,7 @@ df["Family_Income"] = df["Family_Income"].astype(int)
 
 print("After Conversion")
 print(df["Family_Income"].dtype)
+print(df["Family_Income"])
 
 # ================================================
 # Program 4: Exception Handling
