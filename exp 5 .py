@@ -16,7 +16,6 @@ print("Array from Index 1 to 4:")
 print(attendance_arr[1:5])
 print("Every Second Element:")
 print(attendance_arr[::2])
-
 # ================================================
 # Program 2: Indexing and Slicing Using a Pandas DataFrame
 # ================================================
